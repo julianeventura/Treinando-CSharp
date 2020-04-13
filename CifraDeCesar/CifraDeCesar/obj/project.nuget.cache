@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLQ/fkqHjGk79YgGPytNECgIOv5GBBTaRLcGjYMO5VqNdvDpRUL/4/CHauSs4RirRwlEfzGs17JCYL4f3VIZJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\source\\repos\\CifraDeCesar\\CifraDeCesar\\CifraDeCesar.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\julia\\source\\repos\\CifraDeCesar\\CifraDeCesar\\obj\\project.nuget.cache: Dados inválidos encontrados durante a decodificação."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\bin\Debug\netcoreapp3.1\CifraDeCesar2.exe
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\bin\Debug\netcoreapp3.1\CifraDeCesar2.deps.json
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\bin\Debug\netcoreapp3.1\CifraDeCesar2.runtimeconfig.json
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\bin\Debug\netcoreapp3.1\CifraDeCesar2.runtimeconfig.dev.json
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\bin\Debug\netcoreapp3.1\CifraDeCesar2.dll
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\bin\Debug\netcoreapp3.1\CifraDeCesar2.pdb
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\obj\Debug\netcoreapp3.1\CifraDeCesar2.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\obj\Debug\netcoreapp3.1\CifraDeCesar2.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\obj\Debug\netcoreapp3.1\CifraDeCesar2.AssemblyInfo.cs
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\obj\Debug\netcoreapp3.1\CifraDeCesar2.dll
+C:\Users\julia\source\repos\CifraDeCesar\CifraDeCesar2\obj\Debug\netcoreapp3.1\CifraDeCesar2.pdb
